@@ -1,2 +1,6 @@
-# Employee
-Employee Management System project with sqlite3 database in python using customtkinter.
+"# Employee_Mahagment_System" 
+"# Employee_management_system" 
+"# Employee_project" 
+"# Employee_project" 
+"# Employee" 
+"# Employee" 
